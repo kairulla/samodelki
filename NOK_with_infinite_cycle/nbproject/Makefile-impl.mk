@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=infinite_cycle
+PROJECTNAME=NOK_with_infinite_cycle
 
 # Active Configuration
 DEFAULTCONF=Debug

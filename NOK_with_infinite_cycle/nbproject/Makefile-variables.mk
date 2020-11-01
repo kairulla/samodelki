@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=infinite_cycle
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/infinite_cycle
+CND_ARTIFACT_NAME_Debug=nok_with_infinite_cycle
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/nok_with_infinite_cycle
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=infinitecycle.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/infinitecycle.tar
+CND_PACKAGE_NAME_Debug=nokwithinfinitecycle.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/nokwithinfinitecycle.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=infinite_cycle
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/infinite_cycle
+CND_ARTIFACT_NAME_Release=nok_with_infinite_cycle
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/nok_with_infinite_cycle
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=infinitecycle.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/infinitecycle.tar
+CND_PACKAGE_NAME_Release=nokwithinfinitecycle.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/nokwithinfinitecycle.tar
 #
 # include compiler specific variables
 #
